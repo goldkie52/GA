@@ -1,0 +1,14 @@
+C:\Users\Kieran\Desktop\BioComp\Lesson1\bin\Debug\Lesson1.exe.config
+C:\Users\Kieran\Desktop\BioComp\Lesson1\bin\Debug\Lesson1.exe
+C:\Users\Kieran\Desktop\BioComp\Lesson1\bin\Debug\Lesson1.pdb
+C:\Users\Kieran\Desktop\BioComp\Lesson1\obj\Debug\Lesson1.csprojResolveAssemblyReference.cache
+C:\Users\Kieran\Desktop\BioComp\Lesson1\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Kieran\Desktop\BioComp\Lesson1\obj\Debug\Lesson1.exe
+C:\Users\Kieran\Desktop\BioComp\Lesson1\obj\Debug\Lesson1.pdb
+C:\Users\Kieran\SkyDrive\Current working\BioComp\Lesson1\bin\Debug\Lesson1.exe.config
+C:\Users\Kieran\SkyDrive\Current working\BioComp\Lesson1\bin\Debug\Lesson1.exe
+C:\Users\Kieran\SkyDrive\Current working\BioComp\Lesson1\bin\Debug\Lesson1.pdb
+C:\Users\Kieran\SkyDrive\Current working\BioComp\Lesson1\obj\Debug\Lesson1.csprojResolveAssemblyReference.cache
+C:\Users\Kieran\SkyDrive\Current working\BioComp\Lesson1\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Kieran\SkyDrive\Current working\BioComp\Lesson1\obj\Debug\Lesson1.exe
+C:\Users\Kieran\SkyDrive\Current working\BioComp\Lesson1\obj\Debug\Lesson1.pdb
